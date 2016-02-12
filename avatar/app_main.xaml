@@ -1,0 +1,9 @@
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="app_main">
+    <Grid Width="1280" Height="1024">
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="852" Margin="10,83,0,0" VerticalAlignment="Top" Width="470">
+            <Border BorderBrush="Black" BorderThickness="1" Height="852" Width="460" RenderTransformOrigin="-0.39,-0.32"/>
+        </ListBox>
+    </Grid>
+</Window>
